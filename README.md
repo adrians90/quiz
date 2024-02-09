@@ -2,6 +2,7 @@
 This is a quiz app from the JavaScript simplified course
 https://javascriptsimplified.com/
 
+live link : https://adrians90.github.io/quiz/
 The app takes a quiz with three questions and the task is to make it functional and verify if the answers are correct. If all answers are correct, a "Congratulations!" modal pops onto the screen and the text color of each question turns green. If answers are incorrect, the text color is red.
 
 The main tasks are :
