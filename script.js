@@ -16,10 +16,10 @@
 //    7. BONUS: If all answers are correct show the element with the id `alert` and hide it after one second (look into setTimeout) (use the class active to show the alert and remove the class to hide it)
 
 const form = document.getElementById("quiz-form")
-const answers = document.querySelectorAll(".answer")
+const answers = Array.from(document.querySelectorAll(".answer"))
 
 form.addEventListener("submit", e => {
   e.preventDefault()
   const checkedAnswers = answers.filter(answer => answer.checked)
-  
+  console.log(checkedAnswers)
 })
