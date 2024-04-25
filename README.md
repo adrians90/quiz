@@ -2,6 +2,7 @@
 This is a quiz app from the JavaScript simplified course
 https://javascriptsimplified.com/
 
+In this assignment I practiced forms, event listeners and the filter method.
 live link : https://adrians90.github.io/quiz/
 
 
@@ -14,3 +15,6 @@ The main tasks are :
 - Make sure unanswered questions show up as incorrect. The easiest way to do this is to add the incorrect class and removing the correct class from all question items before checking the correct answers
 - If all answers are correct show the element with the id `alert` and hide it after one second (look into setTimeout) (use the class active to show the alert and remove the class to hide it)
 - If all answers are correct show the element with the id `alert` and hide it after one second (look into setTimeout) (use the class active to show the alert and remove the class to hide it)
+
+- ![image](https://github.com/adrians90/quiz/assets/128593202/ab6ff61e-935e-449d-b424-167bf6092eec)
+
